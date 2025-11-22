@@ -7,9 +7,9 @@ butterfly stages.
 
 The design is inspired by the architecture in:
 
-> A. V. Khalili Sadaghiani, B. Forouzandeh,  
+> Abdovahab Khalili Sadaghiani, B. Forouzandeh,  
 > “Novel low‑power pipelined DCT processor for real‑time IoT applications”,  
-> Journal of Real‑Time Image Processing, 2023. :contentReference[oaicite:0]{index=0}
+> Journal of Real‑Time Image Processing, 2023.
 
 The goal is a DCT engine suitable for resource‑constrained
 FPGA / IoT image and video compression.
